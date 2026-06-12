@@ -1,8 +1,7 @@
 <div align="center">
 
 # Vinit Gunaki
-## Data Scientist & Machine Learning Engineer
-#### Turning data into systems, models, and decisions that people can trust.
+#### Data Scientist & Machine Learning Engineer</br>Turning data into systems, models, and decisions that people can trust.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b9ea014e-6e16-4faa-bbc7-613dc96f83d3" alt="Vinit Gunaki" width="400" />
