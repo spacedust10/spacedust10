@@ -2,7 +2,7 @@
 
 # Vinit Gunaki
 ## Data Scientist & Machine Learning Engineer
-Turning data into systems, models, and decisions that people can trust.
+#### Turning data into systems, models, and decisions that people can trust.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b9ea014e-6e16-4faa-bbc7-613dc96f83d3" alt="Vinit Gunaki" width="400" />
@@ -139,7 +139,4 @@ If the path is honest, the direction usually takes care of itself.
     <img src="https://img.shields.io/badge/Email-vgunaki%40umich.edu-00274C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/spacedust10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-spacedust10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
