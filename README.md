@@ -133,7 +133,7 @@ If the path is honest, the direction usually takes care of itself.
 # Connect
 
 <p align="left">
-  <a href="https://in.linkedin.com/in/vinit-r-gunaki" target="_blank">
+  <a href="https://in.linkedin.com/in/vinit-r-gunaki" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Gunaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
