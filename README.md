@@ -22,79 +22,82 @@ If the path is honest, the direction usually takes care of itself.
 
 ---
 
-## Skills
+# Skills
 
-### Programming
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light&perline=8" alt="Programming skills" />
-  </a>
-</p>
+**Programming**
 
-### Data & Analytics
-
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,mysql,postgres&theme=light&perline=8" alt="Data and analytics skills" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Time--Series%20Analysis-2E4057?style=for-the-badge&logo=python&logoColor=white" alt="Time-Series Analysis" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-3A6EA5?style=for-the-badge&logo=python&logoColor=white" alt="Statistical Modeling" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-4B6B8A?style=for-the-badge&logo=python&logoColor=white" alt="Hypothesis Testing" />
-</p>
-
-### ML / AI
-
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light&perline=8" alt="Machine learning skills" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Embeddings-5C6BC0?style=for-the-badge&logo=python&logoColor=white" alt="Embeddings" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-E44D26?style=for-the-badge&logo=pytorch&logoColor=white" alt="Fine-Tuning" />
-</p>
-
-### Visualization & Dashboards
-
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=d3,grafana&theme=light&perline=8" alt="Visualization and dashboard skills" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-### Deployment & Cloud
-
-<p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,postman,git,kubernetes,linux&theme=light&perline=8" alt="Deployment and cloud skills" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=light" alt="Python, Java, C, C++" />
 
 ---
 
-## Education
+**Data & Analytics**
+
+<img src="https://skillicons.dev/icons?i=anaconda,mysql,postgres&theme=light" alt="Anaconda, MySQL, PostgreSQL" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Time--Series%20Analysis-2E4057?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistical%20Modeling-3A6EA5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-4B6B8A?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+<td valign="top" width="50%">
+
+**ML / AI**
+
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=light" alt="Scikit-learn, TensorFlow" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-5C6BC0?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine--Tuning-E44D26?style=flat-square&logo=pytorch&logoColor=white" />
+
+---
+
+**Visualization & Dashboards**
+
+<img src="https://skillicons.dev/icons?i=d3,grafana&theme=light" alt="D3.js, Grafana" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Deployment & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,linux,git,github,githubactions,postman&theme=light" alt="Docker, AWS, Kubernetes, Linux, Git, GitHub, GitHub Actions, Postman" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# Education
 
 <table>
   <tr>
@@ -113,7 +116,7 @@ If the path is honest, the direction usually takes care of itself.
     </td>
     <td>
       <strong>Bachelor of Engineering in Computer Science</strong><br/>
-      <a href="https://klsgit.edu"><strong>KLS Gogte Institute of Technology</strong></a><br/>
+      <strong>KLS Gogte Institute of Technology</strong><br/>
       <sub>Belagavi, Karnataka, India</sub>
     </td>
   </tr>
@@ -121,7 +124,7 @@ If the path is honest, the direction usually takes care of itself.
 
 ---
 
-## Connect
+# Connect
 
 <p align="left">
   <a href="https://in.linkedin.com/in/vinit-r-gunaki" target="_blank">
@@ -132,4 +135,7 @@ If the path is honest, the direction usually takes care of itself.
     <img src="https://img.shields.io/badge/Email-vgunaki%40umich.edu-00274C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
+  <a href="https://github.com/spacedust10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-spacedust10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
