@@ -122,7 +122,7 @@ If the path is honest, the direction usually takes care of itself.
     </td>
     <td>
       <strong>Bachelor of Engineering in Computer Science</strong><br/>
-      <strong>KLS Gogte Institute of Technology</strong><br/>
+      <a href="https://klsgit.edu"><strong>KLS Gogte Institute of Technology</strong></a><br/>
       <sub>Belagavi, Karnataka, India</sub>
     </td>
   </tr>
