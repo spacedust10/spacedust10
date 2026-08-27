@@ -113,7 +113,7 @@ If the path is honest, the direction usually takes care of itself.
     <td>
       <strong>Master of Science in Data Science</strong><br/>
       <a href="https://umdearborn.edu"><strong>University of Michigan-Dearborn</strong></a><br/>
-      <sub>Dearborn, Michigan, USA &nbsp;|&nbsp; GPA: <strong>3.8 / 4.0</strong></sub>
+      <sub>Dearborn, Michigan, USA &nbsp;|&nbsp; GPA: <strong>3.9 / 4.0</strong></sub>
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ If the path is honest, the direction usually takes care of itself.
     <td>
       <strong>Bachelor of Engineering in Computer Science</strong><br/>
       <a href="https://klsgit.edu"><strong>KLS Gogte Institute of Technology</strong></a><br/>
-      <sub>Belagavi, Karnataka, India</sub>
+      <sub>Belagavi, Karnataka, India &nbsp;|&nbsp; CGPA: <strong>8.49 / 10</strong></sub>
     </td>
   </tr>
 </table>
